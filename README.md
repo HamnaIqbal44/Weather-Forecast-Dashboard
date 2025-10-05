@@ -10,12 +10,12 @@ This project aims to represent temperature data gathered from environmental sens
 1. 📊 **Interactive Dashboard** – Displays temperature data in charts and tables.
 2. 🧩 **Multiple Visualization Modes** – Users can navigate between Dashboard, Pie Chart, Bar Chart, and Area views.
 3. 🌍 **Area-Based Analysis** – Temperature readings categorized by campus zones:
-      a. SPCAI
-      b. A2 Block
-      c. STC
-      d. Hostel
-4. 📈 **CSV Data Processing** – Reads data from CSV files and visualizes results dynamically.
-5. 🧭 **User-Friendly Navigation** – Sidebar with navigation tabs for effortless exploration.
+         a. SPCAI
+         b. A2 Block
+         c. STC
+         d. Hostel
+5. 📈 **CSV Data Processing** – Reads data from CSV files and visualizes results dynamically.
+6. 🧭 **User-Friendly Navigation** – Sidebar with navigation tabs for effortless exploration.
 
 ## 🧩 Project Workflow
 1. **Data Collection:**
