@@ -1,29 +1,23 @@
 # Weather-Forecast-Dashboard
-
 ## 🌦️ Weather Forecast Dashboard
-
 An interactive web application built with **Python** and **Streamlit**, designed to visualize weather data collected from multiple areas within **Pak-Austria Fachhochschule Institute of Applied Sciences and Technology (PAF-IAST)**.
 The system demonstrates the use of **data visualization and machine learning foundations** for analyzing temperature variations through engaging and informative dashboards.
 
 ## 🎯 Objective
-
 This project aims to represent temperature data gathered from environmental sensors in an intuitive and analytical way. It allows users to explore, compare, and interpret weather conditions across different campus locations using **interactive charts** and **CSV-based data integration**.
 
 ## 🧠 Key Features
-
 1. 📊 **Interactive Dashboard** – Displays temperature data in charts and tables.
 2. 🧩 **Multiple Visualization Modes** – Users can navigate between Dashboard, Pie Chart, Bar Chart, and Area views.
 3. 🌍 **Area-Based Analysis** – Temperature readings categorized by campus zones:
-
-  a. SPCAI
-  b. A2 Block
-  c. STC
-  d. Hostel
+      a. SPCAI
+      b. A2 Block
+      c. STC
+      d. Hostel
 4. 📈 **CSV Data Processing** – Reads data from CSV files and visualizes results dynamically.
 5. 🧭 **User-Friendly Navigation** – Sidebar with navigation tabs for effortless exploration.
 
 ## 🧩 Project Workflow
-
 1. **Data Collection:**
    Temperature readings are collected through sensors installed in four university areas.
 
@@ -41,7 +35,6 @@ This project aims to represent temperature data gathered from environmental sens
    Users can easily identify temperature variations and compare readings across all areas.
 
 ## 🧰 Technologies & Tools
-
 **Languages & Libraries:**
 'Python', 'Streamlit', 'Pandas', 'Matplotlib'
 
@@ -52,5 +45,4 @@ This project aims to represent temperature data gathered from environmental sens
 'CSV' 'Kaggle Datasets'
 
 ## 👩‍💻 Author
-
 **Hamna Iqbal**
