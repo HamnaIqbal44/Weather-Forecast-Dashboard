@@ -2,9 +2,6 @@
 ## 🧭 Project Overview
 An interactive Streamlit dashboard that visualises temperature data collected from multiple campus areas, enabling quick comparison through charts and dashboard summaries.
 
-## 🎯 Objective
-This project aims to represent temperature data gathered from environmental sensors in an intuitive and analytical way. It allows users to explore, compare, and interpret weather conditions across different campus locations using **interactive charts** and **CSV-based data integration**.
-
 ## 🧠 Key Features
 1. 📊 **Interactive Dashboard** – Displays temperature data in charts and tables.
 2. 🧩 **Multiple Visualization Modes** – Users can navigate between Dashboard, Pie Chart, Bar Chart, and Area views.
